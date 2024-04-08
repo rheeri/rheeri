@@ -1,14 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Reddit+Mono&size=25&pause=1000&color=F7C118&random=false&width=435&lines=Hello+%F0%9F%99%82%F0%9F%99%82%F0%9F%99%82)](https://git.io/typing-svg)  
 
 ## Introduce 
-- `2021.03 ~ 2025.02(예정)` 세종대학교 컴퓨터공학과(재학)
-  
-  - `2021`  세종대학교 경영경제대학 경영학과 입학
-  - `2022`  세종대학교 소프트웨어융합대학 컴퓨터공학과 전과
-    
+- `2021.03 ~ 2025.02(예정)` 세종대학교 컴퓨터공학과(재학)   
 - `2023.02 ~ 2024.01` 교내 웹프로그래밍 동아리 _**OYR**_ 11기
 - `2023.05 ~ 2024.05` _**(주)Raywatt**_ SW개발 인턴
 - `2023.09 ~ 2024.01` 교내 인공지능 동아리 _**SAI**_ Season6-2기
+- `2024.04 ~ 2024.11` 소프트웨어 마에스트로 15기
 <br/><br/><br/>
 
 ## Project

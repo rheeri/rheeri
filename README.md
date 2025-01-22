@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Reddit+Mono&size=25&pause=1000&color=F7C118&random=false&width=435&lines=Hello+%F0%9F%99%82%F0%9F%99%82%F0%9F%99%82)](https://git.io/typing-svg)  
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/rheeri?pet-id=669777351868218963" width="1000" height="120"/>
+</a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frheeri&count_bg=%23FBDBF3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <br/><br/>
 

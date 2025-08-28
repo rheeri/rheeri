@@ -21,12 +21,10 @@
 
 - **B.S. in Computer Engineering, Sejong University** (2021.03 – 2025.08)
 
-<!-- 
 <br>
 <h3>🌐 Open Source Contributions</h3>
 
 - [spring-kafka] [PR #4058](https://github.com/spring-projects/spring-kafka/pull/4058) — Clarified documentation on default non-blocking retry setup
--->
 
 <br>
 <h3>🚀 Activities</h3>
